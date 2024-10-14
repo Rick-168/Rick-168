@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **surojitbose2002@gmail.com**
 
-- ⚡ Fun fact **CSS is awesome... until you open DevTools**
+- ⚡ Fun fact **CSS is awesome... until you open DevTools😖**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
