@@ -9,7 +9,9 @@
 - 🌱 I’m currently learning **Tensorflow, OpenCV...**
 
 - 💬 Ask me about **machine learning, algorithms, computer vision..**
-
+  
+- 📫 How to reach me **surojitbose2002@outlook.com**
+  
 - ⚡ Fun fact **CSS is awesome... until you open DevTools😖**
 
 <h3 align="left">Connect with me:</h3>
